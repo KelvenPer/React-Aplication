@@ -75,3 +75,19 @@ const MyNativeComponent = () => {
 };
 
 export default MyNativeComponent;
+```
+
+## Conclusão
+Combinando React.js, React Native, Node.js e JavaScript, você tem uma stack poderosa para desenvolver aplicativos web e móveis. O React Native permite integrar componentes nativos e bibliotecas de terceiros, oferecendo uma experiência rica para o usuário. Essa combinação facilita a manutenção, acelera o desenvolvimento e melhora a experiência geral.
+
+Agora que você tem uma visão geral, que tal começar a praticar com essas ferramentas? Vamos codar!
+
+## Fontes e Referências
+Se você quer se aprofundar mais, confira essas fontes:
+
+Documentação Oficial do React: https://pt-br.legacy.reactjs.org/docs/getting-started.html <br>
+Documentação Oficial do React Native: https://reactnative.dev/docs/getting-started <br>
+Documentação Oficial do Node.js: https://nodejs.org/docs/latest/api/ <br>
+MDN Web Docs: https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started <br>
+Babel Documentation: https://babeljs.io/docs/ <br>
+Webpack Documentation: https://webpack.js.org/concepts/ <br>
